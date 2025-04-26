@@ -195,7 +195,7 @@ function addTask() {
   ```
 
 ## OUTPUT
-![Screenshot (43)](https://github.com/user-attachments/assets/22d38e24-2b0f-4e5f-b300-aa6962f1ce48)
+![Screenshot 2025-04-26 103609](https://github.com/user-attachments/assets/cf71ab1c-53a4-4ae9-8db6-cb822484e555)
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
